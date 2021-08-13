@@ -1,15 +1,13 @@
 ### Oi, Sou o P4CH3CO
 
-- 💻 working for my future XD ...
 - 🐱‍💻 studying Go and CSS...
 - 👾 graphic design
-- 🧪 math and science enthusiast
 - 🐱‍🚀 becoming a astro...
 
  <div>
 <a href="https://github.com/P4CH3CO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=P4CH3CO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4CH3CO&layout=compact&langs_count=7&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=P4CH3CO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4CH3CO&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
